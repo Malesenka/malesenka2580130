@@ -1,0 +1,23 @@
+{
+  "name": "malesenka2580130",
+  "version": "1.0.0",
+  "description": "demonstrayion",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Malesenka/malesenka2580130.git"
+  },
+  "dependencies": {
+    "malesenka123": "1.0.0",
+    "galetska222": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Malesenka/malesenka2580130/issues"
+  },
+  "homepage": "https://github.com/Malesenka/malesenka2580130#readme"
+}
