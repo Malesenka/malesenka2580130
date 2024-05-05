@@ -1,6 +1,6 @@
 {
   "name": "malesenka2580130",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "demonstrayion",
   "main": "index.js",
   "scripts": {
@@ -13,7 +13,9 @@
   "dependencies": {
     "malesenka123": "1.0.1",
     "galetska222": "1.0.1",
-    "paket228": "1.0.3"
+    "paket228": "1.0.3",
+    "srhaletskyjryslan": "1.0.6",
+    "rhaletskyjmaluy": "1.0.1"
   },
   "author": "",
   "license": "ISC",
